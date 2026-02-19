@@ -1,0 +1,11 @@
+flight_id,airline,dep_delay,arr_delay
+F101,Delta,15,10
+F102,United,5,0
+F103,Delta,45,50
+F104,American,10,5
+F105,United,60,65
+F106,American,0,-5
+F107,Delta,30,25
+F108,United,20,15
+F109,American,5,10
+F110,Delta,90,85
